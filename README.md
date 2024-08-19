@@ -16,4 +16,10 @@ Key Features
 We invite all who knew of Professor Bossi or were touched by his work to contribute to this memorial site. You can share memories, stories, or additional resources that can serve to preserve and honor his legacy.
 License
 
+### Notable Contributors 
+
+- [**MathsVictim**](https://t.me/mathsvictim)
+
+---
+
 This project is under the MIT License. Contributions or suggestions concerning the site are more than welcome, for we would like to keep the memory of Professor Bossi alive for future generations.
