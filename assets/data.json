@@ -1,0 +1,29 @@
+{
+  "who": {
+    "title": "Professor Colonel Enrico Bossi, M.D.",
+    "image": "https://64.media.tumblr.com/28ea80f85405cd6828e399881d739f28/8c6fa04231c6600b-36/s1280x1920/5eb11f03fc9dc8013b0fd791f5f35c305f795c95.pnj",
+    "backgroundImage": "#",
+    "description": "Professor Colonel Enrico Bossi, M.D., was a distinguished surgical doctor specializing in orthopedics and dermatology, with an impressive career spanning over 45 years.\n\nKnown for his profound compassion and humanitarian spirit, he made significant contributions to the fields of medicine and humanitarian aid across 42 African countries.\n\nProfessor Bossi embraced individuals regardless of their skin color, race, or religion, demonstrating an unwavering commitment to helping those in need.\n\nHe had a deep affection for Ethiopia, which he proudly declared as the homeland of his son, Kaleb.\n\nHis dedication to Ethiopia and its people was not only professional but also personal, as evidenced by his extensive literary contributions focused on Ethiopian history. Professor Bossi's lifetime dedication to humanitarian support, scholarship, and art ensures that even in passing, he remains an eternal presence in the hearts of those he touched.",
+    "downloads": [{ "name": "Biography", "url": "#biography-pdf" }]
+  },
+  "works": {
+    "title": "Notable Works",
+    "image": "#",
+    "backgroundImage": "#",
+    "description": "Throughout his career, Professor Colonel Enrico Bossi has made many contributions that left indelible marks in Medicine, Humanitarian Aid, Literature, and the Arts.",
+    "downloads": [
+      { "name": "List of Literary Works", "url": "#" },
+      { "name": "Book Excerpts", "url": "#book-excerpts-pdf" }
+    ]
+  },
+  "foundation": {
+    "title": "Prof. Col. Enrico Bossi(MD) Foundation",
+    "image": "#",
+    "backgroundImage": "#",
+    "description": "-",
+    "downloads": [
+      { "name": "Annual Report", "url": "#annual-report-pdf" },
+      { "name": "Donation Form", "url": "#donation-form-pdf" }
+    ]
+  }
+}
