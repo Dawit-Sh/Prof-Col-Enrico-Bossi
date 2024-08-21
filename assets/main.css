@@ -166,7 +166,6 @@
             margin: 40px auto;
             position: relative;
             max-height: 80vh;
-            overflow-y: auto;
         }
 
         .info-content p {
